@@ -1,0 +1,32 @@
+﻿  sequence_exam4.cpp
+C:\Users\marti\Desktop\CIST004B\templatesProgram\sequence_exam4.cpp(357,18): warning C4244: 'argument': conversion from 'size_t' to 'const Item', possible loss of data
+          with
+          [
+              Item=TestDataType
+          ]
+C:\Users\marti\Desktop\CIST004B\templatesProgram\sequence_exam4.cpp(501,19): warning C4244: '=': conversion from 'size_t' to 'double', possible loss of data
+C:\Users\marti\Desktop\CIST004B\templatesProgram\sequence_exam4.cpp(512,20): warning C4244: 'argument': conversion from 'size_t' to 'const Item', possible loss of data
+          with
+          [
+              Item=TestDataType
+          ]
+C:\Users\marti\Desktop\CIST004B\templatesProgram\sequence_exam4.cpp(580,19): warning C4244: '=': conversion from 'size_t' to 'double', possible loss of data
+C:\Users\marti\Desktop\CIST004B\templatesProgram\sequence_exam4.cpp(592,20): warning C4244: 'argument': conversion from 'size_t' to 'const Item', possible loss of data
+          with
+          [
+              Item=TestDataType
+          ]
+C:\Users\marti\Desktop\CIST004B\templatesProgram\sequence_exam4.cpp(669,19): warning C4244: '=': conversion from 'size_t' to 'double', possible loss of data
+C:\Users\marti\Desktop\CIST004B\templatesProgram\sequence_exam4.cpp(674,17): warning C4244: 'argument': conversion from 'size_t' to 'const Item', possible loss of data
+          with
+          [
+              Item=TestDataType
+          ]
+C:\Users\marti\Desktop\CIST004B\templatesProgram\sequence_exam4.cpp(680,17): warning C4244: 'argument': conversion from 'size_t' to 'const Item', possible loss of data
+          with
+          [
+              Item=TestDataType
+          ]
+  sequence_test.cpp
+  Generating Code...
+  templatesProgram.vcxproj -> C:\Users\marti\Desktop\CIST004B\templatesProgram\x64\Debug\templatesProgram.exe
