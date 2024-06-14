@@ -1,0 +1,211 @@
+
+***
+****
+*****
+*****
+****
+***
+THERBLIG1.1.
+THERBLIG1.2.
+THERBLIG1.3.
+THERBLIG1.4.
+THERBLIG1.5.
+THERBLIG1.6.
+THERBLIG1.7.
+THERBLIG1.8.
+THERBLIG1.9.
+THERBLIG2.1.
+THERBLIG2.2.
+THERBLIG2.3.
+THERBLIG2.4.
+THERBLIG2.5.
+THERBLIG2.6.
+THERBLIG2.7.
+THERBLIG2.8.
+THERBLIG2.9.
+THERBLIG3.1.
+THERBLIG3.2.
+THERBLIG3.3.
+THERBLIG3.4.
+THERBLIG3.5.
+THERBLIG3.6.
+THERBLIG3.7.
+THERBLIG3.8.
+THERBLIG3.9.
+THERBLIG4.1.
+THERBLIG4.2.
+THERBLIG4.3.
+THERBLIG4.4.
+THERBLIG4.5.
+THERBLIG4.6.
+THERBLIG4.7.
+THERBLIG4.8.
+THERBLIG4.9.
+THERBLIG5.1.
+THERBLIG5.2.
+THERBLIG5.3.
+THERBLIG5.4.
+THERBLIG5.5.
+THERBLIG5.6.
+THERBLIG5.7.
+THERBLIG5.8.
+THERBLIG5.9.
+THERBLIG6.1.
+THERBLIG6.2.
+THERBLIG6.3.
+THERBLIG6.4.
+THERBLIG6.5.
+THERBLIG6.6.
+THERBLIG6.7.
+THERBLIG6.8.
+THERBLIG6.9.
+THERBLIG7.1.
+THERBLIG7.2.
+THERBLIG7.3.
+THERBLIG7.4.
+THERBLIG7.5.
+THERBLIG7.6.
+THERBLIG7.7.
+THERBLIG7.8.
+THERBLIG7.9.
+THERBLIG8.1.
+THERBLIG8.2.
+THERBLIG8.3.
+THERBLIG8.4.
+THERBLIG8.5.
+THERBLIG8.6.
+THERBLIG8.7.
+THERBLIG8.8.
+THERBLIG8.9.
+THERBLIG9.1.
+THERBLIG9.2.
+THERBLIG9.3.
+THERBLIG9.4.
+THERBLIG9.5.
+THERBLIG9.6.
+THERBLIG9.7.
+THERBLIG9.8.
+THERBLIG9.9.
+
+Bears(250) is true
+Bears(42) is true
+Bears(84) is true
+Bears(53) is false
+Bears(41) is false
+
+Sample Output
+Fibonacci
+n       Recursive               time_r(s)       Iterative       time_i(s)
+  1              1            0.000000              1            0.000000
+  2              1            0.000000              1            0.000000
+  3              2            0.000000              2            0.000001
+  4              3            0.000000              3            0.000001
+  5              5            0.000000              5            0.000000
+  6              8            0.000000              8            0.000001
+  7             13            0.000000             13            0.000001
+  8             21            0.000001             21            0.000001
+  9             34            0.000001             34            0.000001
+ 10             55            0.000001             55            0.000001
+ 11             89            0.000001             89            0.000001
+ 12            144            0.000002            144            0.000001
+ 13            233            0.000004            233            0.000001
+ 14            377            0.000005            377            0.000001
+ 15            610            0.000008            610            0.000001
+ 16            987            0.000011            987            0.000001
+ 17           1597            0.000019           1597            0.000001
+ 18           2584            0.000031           2584            0.000001
+ 19           4181            0.000048           4181            0.000001
+ 20           6765            0.000076           6765            0.000001
+ 21          10946            0.000124          10946            0.000001
+ 22          17711            0.000201          17711            0.000001
+ 23          28657            0.000322          28657            0.000001
+ 24          46368            0.000526          46368            0.000001
+ 25          75025            0.000860          75025            0.000001
+ 26         121393            0.001367         121393            0.000001
+ 27         196418            0.002252         196418            0.000001
+ 28         317811            0.003578         317811            0.000002
+ 29         514229            0.005811         514229            0.000002
+ 30         832040            0.009434         832040            0.000001
+ 31        1346269            0.015305        1346269            0.000002
+ 32        2178309            0.024755        2178309            0.000002
+ 33        3524578            0.039780        3524578            0.000002
+ 34        5702887            0.064617        5702887            0.000002
+ 35        9227465            0.104972        9227465            0.000002
+ 36       14930352            0.169555       14930352            0.000002
+ 37       24157817            0.277294       24157817            0.000002
+ 38       39088169            0.453360       39088169            0.000002
+ 39       63245986            0.744991       63245986            0.000002
+ 40      102334155            1.161377      102334155            0.000002
+ 41      165580141            1.849270      165580141            0.000002
+ 42      267914296            2.988199      267914296            0.000002
+ 43      433494437            4.842319      433494437            0.000002
+ 44      701408733            7.864493      701408733            0.000002
+ 45     1134903170           12.785283     1134903170            0.000002
+
+C:\Users\marti\Desktop\CIST004B\RecursionProgram\x64\Debug\RecursionProgram.exe (process 10512) exited with code 0.
+Press any key to close this window . . .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

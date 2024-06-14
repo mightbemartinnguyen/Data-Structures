@@ -1,0 +1,266 @@
+CIST 004B Sorting Assignment.  Worth 20 points
+
+Enter the size of Array you wish to sort (not more than 100,000,000): 50000
+Do you wish a single run (Y/N): y
+
+Now executing a sample Shaker Sort of 50000 items.
+A sample Shaker Sort took 3.742337 Seconds.
+Now Executing a sample Shaker Sort of 50000 mostly (99.9%) sorted items.
+A sample Shaker Sort took 0.002631 Seconds.
+Now Executing a sample Shaker Sort of 50000 pre-sorted items.
+A sample Shaker Sort took 0.000113 Seconds.
+
+Now executing the Bubble Sort of 50000 items.
+The Bubble Sort took 5.484578 Seconds.
+Now Executing the Bubble Sort of 50000 mostly (99.9%) sorted items.
+The Bubble Sort took 1.765856 Seconds.
+Now Executing the Bubble Sort of 50000 pre-sorted items.
+The Bubble Sort took 1.496196 Seconds.
+
+Now executing your Optimized Bubble Sort of 50000 items.
+Your Optimized Bubble Sort took 5.481293 Seconds.
+Now Executing your Optimized Bubble Sort of 50000 mostly (99.9%) sorted items.
+Your Optimized Bubble Sort took 1.186885 Seconds.
+Now Executing your Optimized Bubble Sort of 50000 pre-sorted items.
+Your Optimized Bubble Sort took 0.000076 Seconds.
+
+Now executing your Selection Sort of 50000 items.
+Your Selection Sort took 1.349932 Seconds.
+Now Executing your Selection Sort of 50000 mostly (99.9%) sorted items.
+Your Selection Sort took 1.394284 Seconds.
+Now Executing your Selection Sort of 50000 pre-sorted items.
+Your Selection Sort took 1.378521 Seconds.
+
+Now executing your Insertion Sort of 50000 items.
+Your Insertion Sort took 0.907291 Seconds.
+Now Executing your Insertion Sort of 50000 mostly (99.9%) sorted items.
+Your Insertion Sort took 0.000930 Seconds.
+Now Executing your Insertion Sort of 50000 pre-sorted items.
+Your Insertion Sort took 0.000337 Seconds.
+
+Now executing the C++ Built-in Quick Sort of 50000 items.
+The C++ Built-in Quick Sort took 0.009690 Seconds.
+Now Executing the C++ Built-in Quick Sort of 50000 mostly (99.9%) sorted items.
+The C++ Built-in Quick Sort took 0.004358 Seconds.
+Now Executing the C++ Built-in Quick Sort of 50000 pre-sorted items.
+The C++ Built-in Quick Sort took 0.004211 Seconds.
+
+Now executing your Quick Sort of 50000 items.
+Your Quick Sort took 0.004930 Seconds.
+Now Executing your Quick Sort of 50000 mostly (99.9%) sorted items.
+Your Quick Sort took 0.002268 Seconds.
+Now Executing your Quick Sort of 50000 pre-sorted items.
+Your Quick Sort took 0.001922 Seconds.
+
+Now executing your Heap Sort of 50000 items.
+Your Heap Sort took 0.008685 Seconds.
+Now Executing your Heap Sort of 50000 mostly (99.9%) sorted items.
+Your Heap Sort took 0.007250 Seconds.
+Now Executing your Heap Sort of 50000 pre-sorted items.
+Your Heap Sort took 0.007439 Seconds.
+
+Now executing your Merge Sort of 50000 items.
+Your Merge Sort took 0.028897 Seconds.
+Now Executing your Merge Sort of 50000 mostly (99.9%) sorted items.
+Your Merge Sort took 0.025880 Seconds.
+Now Executing your Merge Sort of 50000 pre-sorted items.
+Your Merge Sort took 0.024518 Seconds.
+
+
+C:\Users\marti\Desktop\CIST004B\SortingPrograms\x64\Debug\SortingPrograms.exe (process 33580) exited with code 0.
+Press any key to close this window . . .
+
+
+CIST 004B Sorting Assignment.  Worth 20 points
+
+Enter the size of Array you wish to sort (not more than 100,000,000): 32868
+Do you wish a single run (Y/N): y
+
+Now executing a sample Shaker Sort of 32868 items.
+A sample Shaker Sort took 1.526247 Seconds.
+Now Executing a sample Shaker Sort of 32868 mostly (99.9%) sorted items.
+A sample Shaker Sort took 0.001155 Seconds.
+Now Executing a sample Shaker Sort of 32868 pre-sorted items.
+A sample Shaker Sort took 0.000075 Seconds.
+
+Now executing the Bubble Sort of 32868 items.
+The Bubble Sort took 2.163410 Seconds.
+Now Executing the Bubble Sort of 32868 mostly (99.9%) sorted items.
+The Bubble Sort took 0.862344 Seconds.
+Now Executing the Bubble Sort of 32868 pre-sorted items.
+The Bubble Sort took 0.650123 Seconds.
+
+Now executing your Optimized Bubble Sort of 32868 items.
+Your Optimized Bubble Sort took 2.152147 Seconds.
+Now Executing your Optimized Bubble Sort of 32868 mostly (99.9%) sorted items.
+Your Optimized Bubble Sort took 0.633254 Seconds.
+Now Executing your Optimized Bubble Sort of 32868 pre-sorted items.
+Your Optimized Bubble Sort took 0.000041 Seconds.
+
+Now executing your Selection Sort of 32868 items.
+Your Selection Sort took 0.606341 Seconds.
+Now Executing your Selection Sort of 32868 mostly (99.9%) sorted items.
+Your Selection Sort took 0.587774 Seconds.
+Now Executing your Selection Sort of 32868 pre-sorted items.
+Your Selection Sort took 0.587096 Seconds.
+
+Now executing your Insertion Sort of 32868 items.
+Your Insertion Sort took 0.396053 Seconds.
+Now Executing your Insertion Sort of 32868 mostly (99.9%) sorted items.
+Your Insertion Sort took 0.000462 Seconds.
+Now Executing your Insertion Sort of 32868 pre-sorted items.
+Your Insertion Sort took 0.000084 Seconds.
+
+Now executing the C++ Built-in Quick Sort of 32868 items.
+The C++ Built-in Quick Sort took 0.008282 Seconds.
+Now Executing the C++ Built-in Quick Sort of 32868 mostly (99.9%) sorted items.
+The C++ Built-in Quick Sort took 0.002881 Seconds.
+Now Executing the C++ Built-in Quick Sort of 32868 pre-sorted items.
+The C++ Built-in Quick Sort took 0.003002 Seconds.
+
+Now executing your Quick Sort of 32868 items.
+Your Quick Sort took 0.002965 Seconds.
+Now Executing your Quick Sort of 32868 mostly (99.9%) sorted items.
+Your Quick Sort took 0.001554 Seconds.
+Now Executing your Quick Sort of 32868 pre-sorted items.
+Your Quick Sort took 0.001201 Seconds.
+
+Now executing your Heap Sort of 32868 items.
+Your Heap Sort took 0.005477 Seconds.
+Now Executing your Heap Sort of 32868 mostly (99.9%) sorted items.
+Your Heap Sort took 0.004571 Seconds.
+Now Executing your Heap Sort of 32868 pre-sorted items.
+Your Heap Sort took 0.004602 Seconds.
+
+Now executing your Merge Sort of 32868 items.
+Your Merge Sort took 0.018223 Seconds.
+Now Executing your Merge Sort of 32868 mostly (99.9%) sorted items.
+Your Merge Sort took 0.016977 Seconds.
+Now Executing your Merge Sort of 32868 pre-sorted items.
+Your Merge Sort took 0.016507 Seconds.
+
+
+C:\Users\marti\Desktop\CIST004B\SortingPrograms\x64\Debug\SortingPrograms.exe (process 7644) exited with code 0.
+Press any key to close this window . . .
+
+
+CIST 004B Sorting Assignment.  Worth 20 points
+
+Enter the size of Array you wish to sort (not more than 100,000,000): 2500
+Do you wish a single run (Y/N): n
+
+Testing every Sort Routine with array sizes from 0 to 2500 numbers.
+Starting at:                            Wed May 17 17:16:10 2023
+   0 . . . . . . . . . .        Wed May 17 17:16:10 2023
+ 100 . . . . . . . . . .        Wed May 17 17:16:10 2023
+ 200 . . . . . . . . . .        Wed May 17 17:16:10 2023
+ 300 . . . . . . . . . .        Wed May 17 17:16:10 2023
+ 400 . . . . . . . . . .        Wed May 17 17:16:11 2023
+ 500 . . . . . . . . . .        Wed May 17 17:16:11 2023
+ 600 . . . . . . . . . .        Wed May 17 17:16:11 2023
+ 700 . . . . . . . . . .        Wed May 17 17:16:11 2023
+ 800 . . . . . . . . . .        Wed May 17 17:16:12 2023
+ 900 . . . . . . . . . .        Wed May 17 17:16:12 2023
+1000 . . . . . . . . . .        Wed May 17 17:16:13 2023
+1100 . . . . . . . . . .        Wed May 17 17:16:14 2023
+1200 . . . . . . . . . .        Wed May 17 17:16:15 2023
+1300 . . . . . . . . . .        Wed May 17 17:16:16 2023
+1400 . . . . . . . . . .        Wed May 17 17:16:17 2023
+1500 . . . . . . . . . .        Wed May 17 17:16:18 2023
+1600 . . . . . . . . . .        Wed May 17 17:16:19 2023
+1700 . . . . . . . . . .        Wed May 17 17:16:21 2023
+1800 . . . . . . . . . .        Wed May 17 17:16:23 2023
+1900 . . . . . . . . . .        Wed May 17 17:16:25 2023
+2000 . . . . . . . . . .        Wed May 17 17:16:27 2023
+2100 . . . . . . . . . .        Wed May 17 17:16:29 2023
+2200 . . . . . . . . . .        Wed May 17 17:16:32 2023
+2300 . . . . . . . . . .        Wed May 17 17:16:35 2023
+2400 . . . . . . . . . .
+Finished at:                            Wed May 17 17:16:38 2023
+
+
+C:\Users\marti\Desktop\CIST004B\SortingPrograms\x64\Debug\SortingPrograms.exe (process 21612) exited with code 0.
+Press any key to close this window . . .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
