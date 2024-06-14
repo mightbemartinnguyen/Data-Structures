@@ -1,0 +1,23 @@
+User input size of the vector
+try 0 expect error
+try 101 expect error
+try 7 
+
+User input for numbers inside the vector
+Try 0 expect error
+Try 1001 expect error
+Try 5 
+try 12
+try 12
+try 55
+try 222
+try 486
+try 679
+
+Expected output
+Min:5
+Max:679
+Mean: 210.143
+Median:55
+Mode:12
+

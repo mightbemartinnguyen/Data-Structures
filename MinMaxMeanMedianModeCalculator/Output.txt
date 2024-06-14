@@ -1,0 +1,25 @@
+Martin Nguyen                    CIST004B Spring 2023
+
+Minimum, Maximum, Mean, Median and Mode Calculator
+
+How many numbers are in your list (1 to 100)? 0
+How many numbers are in your list (1 to 100)? 101
+How many numbers are in your list (1 to 100)? 7
+For number 1, enter an integer between 1 and 1000: 0
+For number 1, enter an integer between 1 and 1000: 1001
+For number 1, enter an integer between 1 and 1000: 5
+For number 2, enter an integer between 1 and 1000: 12
+For number 3, enter an integer between 1 and 1000: 12
+For number 4, enter an integer between 1 and 1000: 55
+For number 5, enter an integer between 1 and 1000: 222
+For number 6, enter an integer between 1 and 1000: 486
+For number 7, enter an integer between 1 and 1000: 679
+
+The list of numbers has the following characteristics:
+The Minimum is: 5
+The Maximum is: 679
+The Mean is: 210.143
+The Median is: 55
+The Mode is: 12
+C:\Users\marti\Desktop\CIST004B\MinMaxMeanMedianModeCalculator\x64\Debug\MinMaxMeanMedianModeCalculator.exe (process 26172) exited with code 0.
+Press any key to close this window . . .
