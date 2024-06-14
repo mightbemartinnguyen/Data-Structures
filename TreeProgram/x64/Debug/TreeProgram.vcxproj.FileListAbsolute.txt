@@ -1,2 +1,0 @@
-C:\Users\marti\Desktop\Projects\TreeProgram\x64\Debug\TreeProgram.exe
-C:\Users\marti\Desktop\CIST004B\TreeProgram\x64\Debug\TreeProgram.exe
